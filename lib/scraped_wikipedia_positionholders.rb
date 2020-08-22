@@ -16,8 +16,8 @@ module Scraped
 
       def to_csv(remap={})
         fields.to_csv + rows.map do |row|
-          row[:party] ||= remap[:party][row[:partyLabel].to_sym]
-          row[:election] ||= remap[:election][row[:electionLabel].to_sym]
+          row[:party] = remap[:party][row[:partyLabel].to_sym] if row[:party].to_s.empty?
+          row[:election] = remap[:election][row[:electionLabel].to_sym] if row[:election].to_s.empty?
           row.values.to_csv
         end.join
       end
