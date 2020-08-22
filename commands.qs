@@ -90,13 +90,8 @@ LAST	Len	"David Watt"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q590740	P768	Q1032459	P102	Q9630	P1111	10544	P1352	2	S4656	"https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"David Young"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q1032459	P102	Q327591	P1111	848	P1352	5	S4656	"https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)"
-LAST	P3602	Q3586935	P768	Q1032459	P102	Q10647	P1111	7956	P1352	2	S4656	"https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)"
+Q76509839	P3602	Q30173038	P768	Q1032459	P102	Q327591	P1111	848	P1352	5	S4656	"https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)"
+Q76509839	P3602	Q3586935	P768	Q1032459	P102	Q10647	P1111	7956	P1352	2	S4656	"https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)"
 Q15990065	P3602	Q2073198	P768	Q56189398	P102	Q108700	P1111	203	P1352	3	S4656	"https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)"
 Q1147508	P3602	Q16889130	P768	Q56189397	P102	Q622441	P1111	631	P1352	1	S4656	"https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)"
 Q5416357	P3602	Q748667	P768	Q1032459	P102	Q9630	P1111	17831	P1352	2	S4656	"https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)"
