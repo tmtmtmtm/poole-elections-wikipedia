@@ -17,8 +17,13 @@
   "new_person_description": "UK election candidate",
   "mapping": {
     "election": {
+      "By-election, 19 Apr 1884": "Q98558972",
+      "By-election, 24 September 1850": "Q98558995",
+      "By-election, 21 May 1835": "Q98559009"
     },
     "party" : {
+      "Demos Direct Initiative": "Q29467913",
+      "Servicemen & Citizen Association": "Q98558706"
     }
   }
 }
