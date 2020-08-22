@@ -1,0 +1,24 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Poole_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1032459",
+    "start": "1950",
+    "end": "9999"
+  }, {
+    "id": "Q56189397",
+    "start": "1868",
+    "end": "1885"
+  }, {
+    "id": "Q56189398",
+    "start": "1801",
+    "end": "1868"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
